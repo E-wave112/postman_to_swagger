@@ -24,14 +24,11 @@
   },
   "homepage": "https://github.com/E-wave112/postman_to_swagger#readme",
   "dependencies": {
-    "api-spec-transformer": "^0.2.6",
-    "axios": "^0.21.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "is-my-json-valid": "^2.20.5",
     "json-to-pretty-yaml": "^1.2.2",
-    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.12",
     "swagger-ui-express": "^4.1.6",
     "yamljs": "^0.3.0"
