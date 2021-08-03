@@ -1,0 +1,6 @@
+swagger: '2.0'
+info:
+  version: '1.0'
+  description: 'A swagger docs on odooDB'
+paths: {}
+definitions: {}
