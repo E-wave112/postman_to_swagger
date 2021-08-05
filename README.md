@@ -2,3 +2,5 @@
 
 # postman_to_swagger
 A simple script like application to convert a postman collection to a swagger ui based documentation
+
+For this script to work convert your postman collection to an open api specification via [Apitransform](https://apitransform.com/)
