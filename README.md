@@ -3,7 +3,7 @@
 # postman_to_swagger
 A simple script like application to convert a postman collection to a swagger ui based documentation
 
-For this script to work convert your postman collection to an open api specification via [Apitransform](https://apitransform.com/)
+For this script to work convert your postman collection to an open api specification via [Apitransform](https://apitransform.com/) and load it locally
 
 In the root of the project run the following command
 
@@ -20,7 +20,18 @@ $ npm install
 to install package dependencies
 
 ```
-node docs.js
+$ node docs.js
 ```
 
-* This converts the open api specification to a Yaml file
+* This converts the open api specification json file to a Yaml file
+
+Then you can then finally start the server with the command
+
+```
+$ npm run dev
+
+```
+
+The server will be running on [localhost:5000](http://localhost:5000)
+
+Be sure the replace the specified files and file paths with yours
