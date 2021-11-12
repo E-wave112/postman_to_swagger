@@ -54,5 +54,7 @@ The server will be running on [localhost:5000](http://localhost:5000)
 
 A useful resource on how to push your docker image to [DockerHub](https://hub.docker.com)  can be found [here](https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html)
 
+* Find my Docker image [here](https://hub.docker.com/repository/docker/ewave112/postman-to-swagger)
 
-Be sure the replace the specified files and file paths with yours.
+
+NB:Be sure the replace the specified files and file paths with yours.
