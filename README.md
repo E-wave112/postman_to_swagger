@@ -1,9 +1,9 @@
 [![GitHub license](https://img.shields.io/github/license/E-wave112/postman_to_swagger)](https://github.com/E-wave112/postman_to_swagger/blob/main/LICENSE)
 
 # postman_to_swagger
-A simple script to convert a postman collection to a swagger-based documentation using typescript.
+A simple script to convert a postman collection to a swagger-based documentation using Node.js(typescript)
 
-For this script to work convert your postman collection to an open api specification via [Apitransform](https://apitransform.com/) and load it locally.
+For this script to work, convert your postman collection to an open api specification via [Apitransform](https://apitransform.com/) and load it locally.
 
 In the root of the project run the following command
 
